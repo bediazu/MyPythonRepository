@@ -42,4 +42,5 @@ Python is(n't) a programming lenguaje using high level abstractions. It's simple
 <!--[NameOfLink](https://www.TheLink.here)-->
 - [Python](https://www.python.org/)
 - [PythonDoc](https://www.python.org/doc/)
+- [Python Gtk](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 - [Gtk](https://www.gtk.org/)
